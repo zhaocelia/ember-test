@@ -1,2 +1,2 @@
 # ember-test
-my first repository on Github
+my first repository on Github -- ember-test
